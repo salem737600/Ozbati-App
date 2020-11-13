@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">عُزبتي</string>
+    <string name="top_icon">TOP ICON</string>
+    <string name="item">Item</string>
+    <string name="price">Price</string>
+    <string name="add">ADD</string>
+    <string name="registerG">register your group</string>
+    <string name="or">OR</string>
+    <string name="new_user_register_now">Already in a group? Sign in</string>
+    <string name="home">Home</string>
+    <string name="purchases">Purchases</string>
+    <string name="settings">balance</string>
+    <string name="howM">How Many Members ?</string>
+    <string name="phone">Phone</string>
+    <string name="phone1">Phone1 *</string>
+    <string name="phone2">Phone2</string>
+    <string name="phone3">Phone3</string>
+    <string name="phone4">Phone4</string>
+    <string name="phone5">Phone5</string>
+    <string name="save">Save</string>
+    <string name="entername">Enter your name</string>
+    <string name="sign">SIGN IN</string>
+    <string name="exit">Exit group</string>
+    <string name="exit1">Exit </string>
+    <string name="share">Share app</string>
+    <string name="rate">rate app</string>
+    <string name="exit_app">exit app</string>
+    <string name="sure_exit_grp">Are you sure you want to exit this group</string>
+    <string name="sure_delete">Are you sure you want to delete all items?</string>
+
+
+
+    <string name="item_added">The item added</string>
+    <string name="number_added">The number added</string>
+    <string name="doesntexist">the number does not exist ,please register first</string>
+    <string name="number_notat_anygroup">The number doesnt exist at any group, register your group first</string>
+    <string name="itemsrem">all items removed</string>
+    <string name="success">success</string>
+    <string name="firstnumberempty">the first number should not empty</string>
+    <string name="alreadyexist">already exist let him exit from other group or try another number  </string>
+    <string name="morefive">sorry!! more than five members not accepted</string>
+    <string name="no_purchases">there is no purchases</string>
+    <string name="number_exited">ok! you exited from this group</string>
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

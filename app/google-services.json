@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "235466653622",
+    "firebase_url": "https://fir-cc5a3.firebaseio.com",
+    "project_id": "fir-cc5a3",
+    "storage_bucket": "fir-cc5a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235466653622:android:6e88178fedf714f5d30b17",
+        "android_client_info": {
+          "package_name": "com.alshanini.ozba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235466653622-fvk074e6he3qr1dncjk2br8u9v13bn6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6UcJnbdFdhAqzICmiTdBe65kAKcK37MY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235466653622-fvk074e6he3qr1dncjk2br8u9v13bn6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

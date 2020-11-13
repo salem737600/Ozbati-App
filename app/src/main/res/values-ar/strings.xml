@@ -1,0 +1,50 @@
+<resources>
+
+    <string name="app_name">عُزبتي</string>
+    <string name="top_icon">TOP ICON</string>
+    <string name="item">السلعة</string>
+    <string name="price">السعر</string>
+    <string name="add">إضافة</string>
+    <string name="registerG">تسجيل شركائك</string>
+    <string name="or">أو</string>
+    <string name="new_user_register_now">تسجيل الدخول</string>
+    <string name="home">الرئسية</string>
+    <string name="purchases">المشتريات</string>
+    <string name="settings">الحسابات</string>
+    <string name="howM">كم عددكم ؟</string>
+    <string name="phone">هاتف</string>
+    <string name="phone1">هاتف1 (*)</string>
+    <string name="phone2">هاتف2</string>
+    <string name="phone3">هاتف3</string>
+    <string name="phone4">هاتف4</string>
+    <string name="phone5">هاتف5</string>
+    <string name="save">حفظ</string>
+    <string name="entername">ادخل اسمك</string>
+    <string name="sign">سجل</string>
+    <string name="exit">خروج</string>
+    <string name="exit1">غادر</string>
+    <string name="share">مشاركه التطبيق</string>
+    <string name="rate">تقييم التطبيق</string>
+    <string name="exit_app">مغادره التطبيق</string>
+    <string name="sure_exit_grp">هل انت متأكد تريد مغادرة هذا المجموعه؟</string>
+    <string name="sure_delete">هل انت متأكد تريد حذف كل المشتريات؟</string>
+
+
+
+
+    <string name="item_added">تم إضافة السلعة</string>
+    <string name="number_added">تم إضافة الرقم</string>
+    <string name="doesntexist">الرقم غير موجود , الرجاء التسجيل اولا</string>
+    <string name="number_notat_anygroup">الرقم غير موجود في اي مجموعة , الرجاء تسجيل شركائك اولا</string>
+    <string name="itemsrem">تم حذف جميع السلع</string>
+    <string name="success">تمت الاضافة</string>
+    <string name="firstnumberempty">الرقم الاول لا يمكن يكون فارغ</string>
+    <string name="alreadyexist">موجود مسبقا!! دعه يخرج من المجموعات الاخرى اولا او جرب رقماً اخر  </string>
+    <string name="morefive">عذراً!! اكثر من خمسة شركاء غير مقبول</string>
+    <string name="no_purchases">لاتوجد مشتريات</string>
+    <string name="number_exited">حسناً! غادرت هذه المجموعه</string>
+
+
+
+
+</resources>
